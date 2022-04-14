@@ -13,11 +13,12 @@ import HelloWorld from './components/HelloWorld.vue'
   <p>20FTT1813@STUDENT.PB.EDU.BN</p> -->
   <div class="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
   <div class="shrink-0">
-    <img class="h-30 w-48" src="./assets/lemon.jpg" alt="ChitChat Logo">
+    <img class="h-35 w-48" src="./assets/lemon.jpg" alt="ChitChat Logo">
   </div>
   <div>
     <div class="text-xl font-medium text-black">Rohzeimee Bin Nendaroh</div>
-    <p class="text-slate-500">Student of Politeknik Brunei</p>
+    <p class="text-slate-500">Bahit was here!</p>
+    <p class="text-slate-500">Diploma Level 5 in Web Development</p>
   </div>
 </div>
 </template>
