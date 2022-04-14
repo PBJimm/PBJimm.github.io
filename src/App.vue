@@ -5,9 +5,12 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <img alt="Vue logo" src="./assets/lemon.jpg" />
-  <!-- //<HelloWorld\\\ msg="ROHZEIMEE BIN NENDAROH" /> -->
-  
+  <img class="w-35 h-48 mx-auto" src="./assets/lemon.jpg" alt="">
+  <p>ROHZEIMEE BIN NENDAROH</p>
+  <p>STUDENT OF POLITEKNIK BRUNEI</p>
+  <p>WEB DEVELOPMENT DWDT06</p>
+  <p>20FTT1813</p>
+  <p>20FTT1813@STUDENT.PB.EDU.BN</p>
 </template>
 
 <style>
@@ -19,4 +22,6 @@ import HelloWorld from './components/HelloWorld.vue'
   color: #2c3e50;
   margin-top: 60px;
 }
+
+
 </style>
